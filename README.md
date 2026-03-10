@@ -28,12 +28,6 @@ I am passionate about technology and creating solutions that drive real-world im
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RianCD&show_icons=true&theme=radical)
-</div>
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rian-c-dourado-86b1b32a5/)
