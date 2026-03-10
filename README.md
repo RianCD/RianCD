@@ -31,4 +31,3 @@ I am passionate about technology and creating solutions that drive real-world im
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rian-c-dourado-86b1b32a5/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rian10cardosi@gmail.com)
