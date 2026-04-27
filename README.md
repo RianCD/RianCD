@@ -1,14 +1,12 @@
 # Hi there! I'm Rian 👋
 
-Full-stack developer | AI
+Full-stack developer
 
 I am passionate about technology and creating solutions that drive real-world impact. Currently, I am focusing on system architecture, artificial intelligence integration, and honing my full-stack development skills.
 
 ## 👨‍💻 About Me
 
 - 🎓 Currently in my **6th semester of Systems Analysis and Development**.
-- 🔭 Working on **Pulsar**, my individual project that involves full-stack tools and AI and developing my final thesis (**TCC**) focused on preventive health and local epidemiology.
-- 🧠 Exploring AI integrations using **LangChain4j** and vector databases (PGvector/Supabase).
 - 🌍 Advanced English.
 
 ## 🚀 Technologies & Tools
@@ -16,7 +14,6 @@ I am passionate about technology and creating solutions that drive real-world im
 ### Back-end & AI
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
 
 ### Front-end
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
