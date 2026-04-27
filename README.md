@@ -11,7 +11,7 @@ I am passionate about technology and creating solutions that drive real-world im
 
 ## 🚀 Technologies & Tools
 
-### Back-end & AI
+### Back-end
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
